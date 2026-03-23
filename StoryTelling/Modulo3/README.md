@@ -2,6 +2,9 @@
 
 ## Contexto
 
+Para esta actividad se diseño un dashboard en power BI que mostrara el analisis de salarios de encuestados en base a la industria en la que trabajan, profesión y ubicación geografica, la base de datos procede de una encuesta realizada a cierto grupo de profesionales durante el año 2021.
+
+En el Dashboard encontraran la distribución de encuestados por ubicación geografica , el salario anual promedio por industria y la distribución de encuestados por industria 
 
 
 ## DashBoard
