@@ -1,3 +1,6 @@
+# Salary overview and distribution of respondants by industry and location /
+
+
 para Acceder al archivo de power BI , adjunto el enlace de acceso aquí:
 
 https://uniandes-my.sharepoint.com/:u:/g/personal/w_chingg_uniandes_edu_co/IQC8tJPeXMGFQ5UYU7cn-myaAV6SENa41v8UxH8k_vYQ6xA?e=VAyGXS
