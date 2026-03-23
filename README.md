@@ -1,1 +1,3 @@
-En este espacio encontraras algunas de las actividades que he realizado en la Maestria Inteligencia Analitica de datos  de la universidad de los Andes 
+# MIAD -  Universidad de los Andes
+
+Bienvenido a la sección del curso de StoryTelling , aqui encontraras diseños de dashboards en Power BI como en HTML para la visualización de datos
